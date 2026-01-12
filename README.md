@@ -30,12 +30,6 @@ It uses OCR and Large Language Models (LLMs) with a human-in-the-loop approach t
 
 ---
 
-## Author
-  Aman Choure
-  B.Tech (AIML)
-  
----
-
 ## How to Run
 
 ```bash
@@ -43,8 +37,15 @@ pip install -r requirements.txt
 python table_creation.py
 streamlit run frontend2.py
 Tesseract OCR and Ollama must be installed separately.
+```
 
-Notes
+---
+  
+##Notes
 This project uses a local LLM runtime, so it is intended to be run locally.
 
 AI is used as an assistive component, not a fully autonomous system.
+
+# Author
+  Aman Choure
+  B.Tech (AIML)
