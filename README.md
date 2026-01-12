@@ -41,11 +41,11 @@ Tesseract OCR and Ollama must be installed separately.
 
 ---
   
-##Notes
+## Notes
 This project uses a local LLM runtime, so it is intended to be run locally.
 
 AI is used as an assistive component, not a fully autonomous system.
 
-# Author
+### Author
   Aman Choure
   B.Tech (AIML)
